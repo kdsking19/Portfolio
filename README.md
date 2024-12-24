@@ -22,13 +22,14 @@ https://kdsking19.github.io/Portfolio/(#)
    ```
 
 2. Navigate to the project directory:
-     ```bash
-        cd portfolio
-     ```
+   ```bash
+   cd portfolio
+   ```
+   
 3. Open index.html in your browser to view the website.
 
-##License
-###This project is licensed under the MIT License.
+## License
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Feel free to fork or contribute to this project! 😊
 You can replace `#` with the actual links for the live demo or repository. Let me know if you'd like to modify further!
