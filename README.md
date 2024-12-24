@@ -22,9 +22,9 @@ https://kdsking19.github.io/Portfolio/(#)
    ```
 
 2. Navigate to the project directory:
-  ```bash
-  cd portfolio
-  ```
+     ```bash
+        cd portfolio
+     ```
 3. Open index.html in your browser to view the website.
 
 ##License
