@@ -13,7 +13,7 @@ A responsive and interactive personal portfolio website to showcase my skills, p
 - **JavaScript**  
 
 ## Live Demo  
-https://kdsking19.github.io/Portfolio/(#)  
+https://kdsking19.github.io/Portfolio/
 
 ## How to Use  
 1. Clone the repository:  
